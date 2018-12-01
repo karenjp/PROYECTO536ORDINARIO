@@ -9,7 +9,7 @@ if(isset($_SESSION['session']))
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>Vasquez Gonzalez Griselda sistemas de informacion:(</title>
+	<title>griselda primer ordinario de sistemas:(</title>
 	<meta charset="utf-8">
 	<link type="text/css" href="./css/style.css" rel="stylesheet" />
 </head>
