@@ -9,7 +9,11 @@ if(isset($_SESSION['session']))
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<<<<<<< HEAD
 	<titler>ya casi</title>
+=======
+	<titler>github proyecto final</title>
+>>>>>>> parent of d07d3da... cambio proyecto github
 	<meta charset="utf-8">
 	<link type="text/css" href="./css/style.css" rel="stylesheet" />
 </head>
