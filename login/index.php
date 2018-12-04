@@ -10,7 +10,7 @@ if(isset($_SESSION['session']))
 <html lang="es">
 <head>
 
-	<titler>quiero mi 10</title>
+	<titler>ya no dependia de mi</title>
 
 	<titler>cambio234</title>
 
